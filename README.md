@@ -47,6 +47,16 @@ https://github.com/ArtemDevBrain/6-vcs-advanced/issues/10
 
 
 ## 6.
+В master зробив зміни в file.txt
+в branch зробив зміни в file.txt 
+Змерджив.
+Отримав конфлікт, як і домовлялись =р
+Спробував використати git merge --abort
+Порезолвити конфлікт
+Зробив успішний мердж!
 
+https://github.com/ArtemDevBrain/Artem-5/issues/1
+https://github.com/ArtemDevBrain/Artem-5/issues/2
+https://github.com/ArtemDevBrain/Artem-5/issues/3
 
 
